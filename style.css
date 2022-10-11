@@ -7,3 +7,30 @@
 body{
     background-color: rgb(200, 149, 55);
 }
+
+/* Navbar start*/
+ul{
+    background-color: rgb(150, 30, 32);
+    overflow: hidden;
+    list-style: none;
+}
+nav ul li{
+    float: left;
+}
+
+nav ul li:last-child{
+    float: right;
+}
+
+nav ul li a{
+    display: block;
+    padding: 1rem;
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover{
+    background-color: orange;
+    color: black;
+}
+/* Navbar end  */
