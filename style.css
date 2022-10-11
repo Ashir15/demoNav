@@ -1,0 +1,9 @@
+:root{
+    font-size: 16px;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(200, 149, 55);
+}
