@@ -34,3 +34,22 @@ nav ul li a:hover{
     color: black;
 }
 /* Navbar end  */
+
+/* section start */
+div{
+    border: 2px solid black;
+    display: inline-block;
+    width: 20%;
+    /* height: 20%; */
+}
+.card1{
+    margin-left: 10%;
+}
+.card2{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.card3{
+    margin-right: 10%;
+}
+/* section end */
